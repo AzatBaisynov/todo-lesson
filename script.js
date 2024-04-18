@@ -37,5 +37,3 @@ addBtn.addEventListener('click', (e) => {
 	e.preventDefault()
 	createAndAddTodo(titleInp.value, descArea.value)
 })
-
-console.log();
